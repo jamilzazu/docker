@@ -7,5 +7,5 @@ Você terá que publicar uma imagem no docker hub. Quando executarmos:
 Temos que ter o seguinte resultado: Full Cycle Rocks!! e a imagem de nosso projeto Go precisa ter menos de 2MB.
 
 1. Clonar este repositório.
-2. Acessar a pasta raiz do projeto e executar no terminal`docker pull jamilzazu/golang && docker run jamilzazu/golang`
+2. Acessar a pasta raiz do projeto e executar no terminal   `docker pull jamilzazu/fullcycle && docker run jamilzazu/fullcycle`
 3. Verificar no terminal a mensagem.
